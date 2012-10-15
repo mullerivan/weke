@@ -1,0 +1,44 @@
+/////////////////////////////////
+///       OpenCart V1.5.x     ///
+///    Install Instructions   ///
+///  http://www.opencart.com  ///
+/////////////////////////////////
+
+
+NOTE: THIS IS FOR NEW INSTALL ONLY!
+IF UPGRADING YOUR EXISTING CART, BE SURE TO READ THE UPGRADE.TXT FILE INSTEAD
+
+
+-------
+INSTALL
+-------
+
+1. Upload all the files and folders to your server from the "Upload" folder.
+   This can be to anywhere of your choice.
+	
+   e.g. /public_html/store or /public_html
+
+2. If you have a Linux/Unix make sure the following folders and files are writable.
+   chmod 777 -R image/
+   chmod 777 -R image/cache/
+   chmod 777 -R image/data/   
+   chmod 777 -R system/cache/
+   chmod 777 -R system/logs/
+   chmod 777 -R download/
+   chmod 777 config.php
+   chmod 777  admin/config.php
+
+3. Make sure you have installed a MySQL Database which has a user assigned to it 
+   DO NOT USE YOUR ROOT USERNAME AND ROOT PASSWORD
+
+4. Visit the store homepage
+   e.g. http://www.example.com or http://www.example.com/store/
+
+5. Follow the onscreen instructions.
+
+6. Delete the install directory after install is complete.
+
+
+For any support issues please visit: http://www.opencart.com
+
+EOF
