@@ -19,7 +19,7 @@ UPGRADE
 
 Go Here for the current upgrade instructions:
 
-  http://www.opencart.com/index.php?route=documentation/documentation&path=987
+  http://www.opencart.com/index.php?route=documentation/documentation&path=98
 
 
 
